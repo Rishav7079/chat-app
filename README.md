@@ -1,5 +1,7 @@
 # Chat App  🚀🚀
 
+Hosted URL: https://harrypatel21.github.io/chat-app/
+
 ## ⭐ Introduction
 
 This is a Chat App Project which is built using Reactjs ,CSS  , Bootstrap. It is responsive across all devices.
