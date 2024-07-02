@@ -1,6 +1,6 @@
 # Chat App  🚀🚀
 
-Hosted URL:  [https://Rishav7079.github.io/chat-app]
+Hosted URL:  https://statuesque-pasca-3224f8.netlify.app/
 
 ## ⭐ Introduction
 
