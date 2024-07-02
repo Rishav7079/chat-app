@@ -48,7 +48,7 @@ function LeftChatBox(props) {
 
             {/* github Link  */}
             <a
-              href="https://github.com/Harrypatel21/chat-app/tree/main"
+              href="https://github.com/Rishav7079/chat-app"
               target="_blank"
               rel="noreferrer"
             >
