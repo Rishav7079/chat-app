@@ -46,7 +46,7 @@ const file = {
     {
       id: 2,
       name: "Hariom Patidar",
-      picture: "Images/img3.jpg",
+      picture: "https://i.ibb.co/6tmq1LT/Inderjeet.jpg",
       chatlog: [
         {
           text: "Did you recieve the package I sent you the other day?",
@@ -83,7 +83,7 @@ const file = {
     {
       id: 3,
       name: "Keshav",
-      picture: "Images/img2.jpg",
+      picture: "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
       chatlog: [
         {
           text: "Hello, Everyone",
@@ -114,7 +114,7 @@ const file = {
     {
       id: 5,
       name: "Coding Ninjas",
-      picture: "Images/cn.png",
+      picture: "https://scontent.fpat1-1.fna.fbcdn.net/v/t39.30808-6/371857833_702154681949841_4210409194251771608_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=llbmLaQ53RsQ7kNvgFvfGQm&_nc_ht=scontent.fpat1-1.fna&oh=00_AYCL-gpmFVAO_ylVAmFz1KIhINxIQtphYEYYNjDfzJPMNA&oe=668A1A33",
       chatlog: [
         {
           text: "Did You complete Full stack developer course",
@@ -129,7 +129,7 @@ const file = {
     {
       id: 6,
       name: "Krishna",
-      picture: "Images/krishna.png",
+      picture: "https://avatar.iran.liara.run/public/boy?username=Ash",
       chatlog: [
         {
           text: "Hi, Arjun",
@@ -144,7 +144,7 @@ const file = {
     {
       id: 7,
       name: "Alien",
-      picture: "Images/alien.jpg",
+      picture: "https://i.pravatar.cc/250?u=mail@ashallendesign.co.uk",
       chatlog: [
         {
           text: "Hi",
