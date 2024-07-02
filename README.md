@@ -1,6 +1,6 @@
 # Chat App  🚀🚀
 
-Hosted URL: [https://harrypatel21.github.io/chat-app/](https://Rishav7079.github.io/chat-app)
+Hosted URL:  [https://Rishav7079.github.io/chat-app]
 
 ## ⭐ Introduction
 
